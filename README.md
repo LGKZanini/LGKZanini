@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Luiz Guilherme!
 
-<!--
-**LGKZanini/LGKZanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🖥️ PhD student at [ÉTS Montreal](https://www.etsmtl.ca/)
+- 🌟 Focused on **Multimodal Learning** and **Affective Computing**
+- 📚 Passionate about applying **Machine Learning** in real-world scenarios
 
-Here are some ideas to get you started:
+## 🎮 Hobbies
+- 🎮 Gaming: Favorite titles include *The Witcher 3*, *Skyrim*, and *Elden Ring*.
+- 📺 Watching: Obsessed with anime and TV series!
+- 🎥 Logging movies on [Letterboxd](https://boxd.it/5WY9T) (currently at 334 movies 😅).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Programming Languages**: Python, C++, Java
+- **Frameworks**: TensorFlow, PyTorch, Scikit-learn
+- **Tools**: Docker, Git, Jupyter
+
+## 📈 Stats
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LGKZanini&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LGKZanini&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-guilherme-zanini-8555671a4/)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=AQ6wte8AAAAJ&hl=pt-BR&authuser=1)
+- 🛠️ [GitHub Projects](https://github.com/LGKZanini)
