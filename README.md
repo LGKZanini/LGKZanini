@@ -17,7 +17,7 @@
 
 ## 📈 Stats
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LGKZanini&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LGKZanini&hide=jupyter%20notebook&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LGKZanini&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/luiz-guilherme-zanini-8555671a4/)
