@@ -21,5 +21,5 @@
 
 ## 🔗 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/luiz-guilherme-zanini-8555671a4/)
-- 📚 [Google Scholar](https://scholar.google.com/citations?user=AQ6wte8AAAAJ&hl=pt-BR&authuser=1)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=B647vnMAAAAJ&hl=en-US)
 - 🛠️ [GitHub Projects](https://github.com/LGKZanini)
