@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Luiz Guilherme!
 
 ## 🚀 About Me
-- 🖥️ PhD student at [ÉTS Montreal](https://www.etsmtl.ca/)
 - 🌟 Focused on **Multimodal Learning** and **Affective Computing**
 - 📚 Passionate about applying **Machine Learning** in real-world scenarios
 
